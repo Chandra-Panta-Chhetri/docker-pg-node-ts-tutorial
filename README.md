@@ -1,4 +1,4 @@
-This repo contains the code for the [Docker, Postgres, Node, Typescript Setup](https://dev.to/chandrapantachhetri/responsive-react-file-upload-component-with-drag-and-drop-4ef8) article.
+This repo contains the code for the [Docker, Postgres, Node, Typescript Setup](https://dev.to/chandrapantachhetri/docker-postgres-node-typescript-setup-47db) article.
 
 Note:
 
